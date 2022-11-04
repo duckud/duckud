@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duckud&label=Profile%20views&color=0e75b6&style=flat" alt="duckud" /> </p>
 
-- 🔭 I’m currently working on [Incientally in love](https://github.com/duckud/IncidentallyInLove)
+- 🔭 I’m currently working on [Blog Project Website](https://github.com/duckud/projektBlogWebsite)
 
 - 🌱 I’m currently learning **OOP**
 
