@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Blog Project Website](https://github.com/duckud/projektBlogWebsite)
 
-- 🌱 I’m currently learning **OOP**
+- 🌱 I’m currently learning **JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
